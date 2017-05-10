@@ -2,11 +2,8 @@
   "name": "Juna Smarts Web Studio",
   "short_name": "Juna smarts",
   "description": "Web Design, Web Developer, Progressive Web App Developer",
-<<<<<<< HEAD
   "start_url": "index.html",
-=======
   "start_url": "/site/index.html",
->>>>>>> 34bdf19ed33163f28355bb3640789f348b6982a6
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#DC143C",
