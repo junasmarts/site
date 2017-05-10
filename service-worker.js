@@ -5,7 +5,6 @@ importScripts('sw-toolbox/sw-toolbox.js');
 //toolbox.options.cache.name = "hi-lombok-v1";
 
 var fileToCaches = [
-	'/site/index.html',
 	'index.html',
 	'index.html?homescreen=1',
 	'index.html?hs=1',
